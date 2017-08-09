@@ -19,4 +19,7 @@ Use
 The above code is written using C++11 and tested on MacOS Sierra 10.12.5. Running the code requires MacOS and
 XCode to build. The grapics is done using Cinder 0.8.6. (https://libcinder.org/) a C++ library for creative coding.
 
+References
+----------
 
+1. James J. Gibson, The Ecological Approach to Visual Perception: Classic Edition. _Psychology Press._ (2014).
