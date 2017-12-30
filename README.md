@@ -19,6 +19,11 @@ Use
 The above code is written using C++11 and tested on MacOS Sierra 10.12.5. Running the code requires MacOS and
 XCode to build. The grapics is done using Cinder 0.8.6. (https://libcinder.org/) a C++ library for creative coding.
 
+Cite
+----
+
+https://zenodo.org/record/840646#.WkdJ7FT1VAY shows how you can cite tracktor in your work. The tool on the bottom right side of the page formats the citation based on which journal the reference needs to be provided. Thank You for using and citing LoomStimulus.
+
 References
 ----------
 
