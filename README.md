@@ -22,7 +22,13 @@ XCode to build. The grapics is done using Cinder 0.8.6. (https://libcinder.org/)
 Cite
 ----
 
-https://zenodo.org/record/840646#.WkdJ7FT1VAY shows how you can cite tracktor in your work. The tool on the bottom right side of the page formats the citation based on which journal the reference needs to be provided. Thank You for using and citing LoomStimulus.
+If you use Tracktor, please cite it using this zenodo DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.840646.svg)](https://doi.org/10.5281/zenodo.840646)
+
+
+
+Thank You for using and citing LoomStimulus!
 
 References
 ----------
